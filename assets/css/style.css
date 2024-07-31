@@ -1,0 +1,23 @@
+/* Simple CSS to style the website */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, nav, footer {
+    text-align: center;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
